@@ -3,7 +3,7 @@
     "description": "Opencloud adapter for Gaufrette",
     "type": "metapackage",
     "require": {
-        "knplabs/gaufrette": "^0.3",
+        "knplabs/gaufrette": "~0.3",
         "rackspace/php-opencloud": "^1.9.2"
     },
     "authors": [
